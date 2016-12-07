@@ -2,7 +2,7 @@
 
 [![Build Status](https://drone.io/github.com/c77cc/gowsdl/status.png)](https://drone.io/github.com/c77cc/gowsdl/latest)
 
-`gowsdl` Generate wsdl file via parse your project golang comment.
+`gowsdl` Generate wsdl file via parse the comment of your Golang project.
 
 
 ## Example
